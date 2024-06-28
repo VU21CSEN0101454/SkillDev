@@ -12,7 +12,7 @@ SECRET_KEY = 'your-secret-key-here'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['13.233.120.20','localhost','0.0.0.0:8000']
+ALLOWED_HOSTS = ['3.110.107.47','localhost','0.0.0.0:8000']
 
 
 # Application definition
